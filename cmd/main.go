@@ -36,6 +36,7 @@ func main() {
 
 	for _, r := range up {
 		fmt.Println(r.Message.Text)
+		fmt.Println("\n")
 	}
 
 }

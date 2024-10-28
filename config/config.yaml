@@ -1,6 +1,6 @@
 
 telegram :
   - name :  "token"
-    value : "_your_token"
+    value : "dff"
   - name :  "tgBotHost"
     value : "api.telegram.org" 
